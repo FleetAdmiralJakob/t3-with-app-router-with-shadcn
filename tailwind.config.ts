@@ -1,6 +1,4 @@
 import type { Config } from "tailwindcss";
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-import { fontFamily } from "tailwindcss/defaultTheme";
 
 export default {
   darkMode: ["class"],
